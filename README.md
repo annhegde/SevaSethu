@@ -5,6 +5,6 @@ This is a community based app that points out major problems in a locality and r
 processed by the authorities who takes further actions. SevaSethu also include features like traffic analysis,air quality monitoring etc., to check the quality of living at a particular place. It also includes a feature
 which allows the users to rate the actions taken for the reported problems. The user can also send feedbacks and report problems manually by uploading images.
 
-# Libraries/Dependencies
+# Dependencies
 
-The front end for the web app has been built using Flutterflow.Supabase is the relational 
+The front end for the web app has been built using Flutterflow.Supabase is the relational database management system. In the backend, Azure functions have been used for api calls and https triggers. The satellite images have been obtained through mapbox api which is sent to gemini-pro-vision for detection. Traffic analysis is carried 
