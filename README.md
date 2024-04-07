@@ -7,4 +7,4 @@ which allows the users to rate the actions taken for the reported problems. The 
 
 # Dependencies
 
-The front end for the web app has been built using Flutterflow.Supabase is the relational database management system. In the backend, Azure functions have been used for api calls and https triggers. The satellite images have been obtained through mapbox api which is sent to gemini-pro-vision for detection. Traffic analysis is carried 
+The front end for the web app has been built using Flutterflow.Supabase is the relational database management system. In the backend, Azure functions have been used for api calls and https triggers. The satellite images have been obtained through mapbox api which is sent to gemini-pro-vision for detection. Traffic analysis is carried using Mapbox api and Air quality montioring has beeen carried out using WAQI api.
